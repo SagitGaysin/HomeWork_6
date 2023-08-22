@@ -11,7 +11,6 @@ public class Main {
         task9();
         task10();
     }
-
     public static void task1() {
         System.out.println("Задача 1");
         //Условие задачи: С помощью цикла for выведите в консоль все числа от 1 до 10.
